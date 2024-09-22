@@ -8,6 +8,7 @@ public class HuoRuyiSurpriseMealApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HuoRuyiSurpriseMealApplication.class, args);
+        System.out.println("hello world!");
     }
 
 }
