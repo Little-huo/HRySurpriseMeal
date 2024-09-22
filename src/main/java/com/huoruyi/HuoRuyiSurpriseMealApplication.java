@@ -1,4 +1,4 @@
-package com.huoruyi.huoruyisurprisemeal;
+package com.huoruyi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

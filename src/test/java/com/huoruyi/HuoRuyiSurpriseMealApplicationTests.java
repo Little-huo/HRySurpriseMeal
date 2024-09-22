@@ -1,4 +1,4 @@
-package com.huoruyi.huoruyisurprisemeal;
+package com.huoruyi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
